@@ -60,7 +60,7 @@ The app is configured to use the latest Android SDK and includes:
 
 ## License
 
-[Add your preferred license]
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contributing
 

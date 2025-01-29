@@ -25,13 +25,14 @@ A modern Android application that integrates the ElevenLabs Convai widget with f
 ```bash
 git clone https://github.com/Jitendra2603/convai-android.git
 ```
-
-2. Open the project in Android Studio or use the provided build script:
+2. Add your agent ID:
+   https://github.com/Jitendra2603/convai-android/blob/4ba99e8c0d8ced567a3c0c364ea6fc3b7f6cbe0f/app/src/main/java/com/elevenapp/MainActivity.java#L101
+3. Open the project in Android Studio or use the provided build script:
 ```bash
 .\build.bat
 ```
 
-3. The APK will be generated at `app/build/bin/app-release.apk`
+4. The APK will be generated at `app/build/bin/app-release.apk`
 
 ## Project Structure
 

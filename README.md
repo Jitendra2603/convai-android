@@ -1,7 +1,11 @@
 # ElevenLabs Convai Android App
 
 A modern Android application that integrates the ElevenLabs Convai widget with full WebGL support and hardware acceleration.
-https://github.com/user-attachments/assets/bcc1da3a-bbcc-40d6-83b4-938f2a8be893
+
+
+https://github.com/user-attachments/assets/3ee6dc42-6c39-4a41-a948-c179c8c8d869
+
+
 
 ## Features
 
